@@ -8,3 +8,4 @@ require_relative '../lib/count_sentences'
 RSpec.configure do |config|
   # config here
 end
+# ./spec/spec_helper.rb:1:in `require_relative'
